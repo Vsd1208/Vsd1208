@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Vsd1208"><img src="https://img.shields.io/badge/GitHub-Vsd1208-111827?style=flat-square&logo=github" alt="GitHub"/></a>
 <a href="mailto:sv9419@srmist.edu.in"><img src="https://img.shields.io/badge/Email-sv9419%40srmist.edu.in-111827?style=flat-square&logo=gmail" alt="Email"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/sai-dhiraj-vandanapu-772ab0283/"><img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 
 <br/><br/>
 
