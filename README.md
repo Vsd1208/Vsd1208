@@ -178,17 +178,15 @@ I approach DSA as an engineering habit: understand the constraints, choose the r
 
 ---
 
-## `09` — GitHub
+## `09` — GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vsd1208&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Engineering%20Activity" height="170" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vsd1208&layout=compact&hide_border=true&langs_count=8&custom_title=Languages" height="170" alt="Top languages"/>
+<img src="https://streak-stats.demolab.com?user=Vsd1208&hide_border=true&mode=weekly" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Vsd1208&hide_border=true&mode=weekly" alt="GitHub streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vsd1208&hide_border=true&area=true" alt="GitHub activity graph"/>
 
 </div>
 
